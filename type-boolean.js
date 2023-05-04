@@ -1,5 +1,5 @@
-//booleanos
-// true - verdadeiro
+// booleanos
+//true - verdadeiro
 //false - falso
 
 const primeiroNumber = 6;
